@@ -1,11 +1,12 @@
-.logo{
+.logo {
     box-sizing: border-box;
     font-family: sans-serif;
-    background:  #013327;
+    background: #013327;
     padding: 2rem 1rem 1rem 5rem;
     width: 1050px;
 }
-.container{
+
+.container {
     width: 624px;
     background: rgba(177, 224, 35, 0.1);
     font-family: sans-serif;
@@ -15,37 +16,42 @@
     margin-bottom: 5px;
     margin-top: 70px;
     margin-left: 90px;
-    
+
 }
-h{
+
+h {
     color: #055844;
-    margin-left:60px;
+    margin-left: 60px;
     position: absolute;
-    margin-left: 50px; 
+    margin-left: 50px;
     margin-top: 26px;
     margin-bottom: 19px;
 }
-body{
+
+body {
     background: #E5E5E5;
 }
-h1{
-    
+
+h1 {
+
     font-size: 48px;
     margin-left: 90px;
     font-family: sans-serif;
-    color:  #777777;
+    color: #777777;
     font-weight: bold;
 }
-fieldset{
+
+fieldset {
     width: 636px;
     height: 134.18px;
     margin-left: 90px;
     margin-bottom: 60px;
     background: #FFFFFF;
-    
-    
+
+
 }
-input[type="email"]{
+
+input[type="email"] {
     width: 361px;
     height: 36px;
     font-size: 24px;
@@ -54,9 +60,10 @@ input[type="email"]{
     margin-top: 40px;
     border: 0px;
     position: absolute;
-       
+
 }
-input[type="password"]{
+
+input[type="password"] {
     width: 247px;
     height: 36px;
     font-size: 24px;
@@ -66,9 +73,10 @@ input[type="password"]{
     margin-right: 800px;
     position: absolute;
     margin-top: 40px;
-   
+
 }
-.box{
+
+.box {
     margin-left: 90px;
     font-size: 18px;
     color: #7F8B94;
@@ -80,34 +88,38 @@ label {
     font-size: 20px;
     margin-left: 50px;
     bottom: 0px;
-    
-    
+
+
 }
-h0{
+
+h0 {
     margin-left: 664px;
     font-size: 18px;
     color: #7F8B94;
 
 }
-.container2{
+
+.container2 {
     width: 636px;
     background: #013327;
     margin-left: 90px;
     height: 95px;
     display: inline-block;
     margin-top: 50px;
-   
+
 }
-h2{
+
+h2 {
     font-family: sans-serif;
     font-weight: bold;
     font-size: 24px;
     color: #FFFFFF;
     position: absolute;
-    margin-left: 260px; 
-   
+    margin-left: 260px;
+
 }
-mainbody{
+
+mainbody {
     display: inline-block;
     float: right;
     height: 1289px;
@@ -117,8 +129,9 @@ mainbody{
     left: 1058px;
     font-size: 48px;
     text-align: justify;
-   background-image: url(assets/image.svg);
+    background-image: url(assets/image.svg);
 }
+
 .right-header {
     font-weight: 800;
     font-family: sans-serif;
@@ -131,36 +144,41 @@ mainbody{
     margin-top: 354px;
     margin-left: 100px;
     margin-bottom: 647px;
-    
+
 }
-.show-pass{
+
+.show-pass {
     color: #EE5331;
     font-weight: bold;
     font-size: 14px;
     margin-left: 552px;
 }
-.btn-left{
+
+.btn-left {
     width: 350px;
     height: 85px;
     left: 450px;
-   background: rgba(119, 119, 119, 0.5);
+    background: rgba(119, 119, 119, 0.5);
     position: absolute;
 }
-.btn-right{
+
+.btn-right {
     background: #FFFFFF;
     width: 345px;
     height: 85px;
     border-top: 0px;
     top: 845px;
 }
-button{
+
+button {
     font-weight: bold;
     font-size: 20px;
     margin-left: 55px;
     border: 0px;
-    
+
 }
-.text{
+
+.text {
     font-weight: 300;
     font-size: 18px;
     position: absolute;
@@ -168,6 +186,7 @@ button{
     margin-top: 250px;
     background: rgba(196, 196, 196, 0.2);
 }
-input [type="checkbox"]{
+
+input [type="checkbox"] {
     background: #B1E023;
 }
